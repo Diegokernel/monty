@@ -1,4 +1,5 @@
 #include "monty.h"
+int global_var;
 /**
  * push - pushes an element to the stack
  * @line_number: line number

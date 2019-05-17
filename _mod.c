@@ -5,7 +5,7 @@
  * @line_number: line number
  * Return: void
  */
-void _div(stack_t **stack, unsigned int line_number)
+void _mod(stack_t **stack, unsigned int line_number)
 {
 	stack_t *temp = NULL;
 	int mod = 0;

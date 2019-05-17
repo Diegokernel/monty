@@ -1,4 +1,5 @@
 #include "monty.h"
+char *tokennum = NULL;
 /**
  *read_file - reads a text file (and prints it to a standart output)
  *@file_name: name of the file to read

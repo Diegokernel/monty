@@ -9,7 +9,6 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <ctype.h>
-char *tokennum = NULL;
 extern int global_var;
 /**
  * struct stack_s - doubly linked list representation of a stack (or queue)
